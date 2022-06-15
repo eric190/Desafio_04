@@ -1,0 +1,79 @@
+using System;
+
+namespace Desafio__03
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            string Pedro;
+            int idade1 = 18;
+            int n1 = 7;
+
+            string Marcos;
+            int idade2 = 24;
+            int n2 = 8;
+
+            string João;
+            int idade3 = 32;
+            int n3 = 9;
+
+            int[] n= new int[3];
+            n[0] = 1;
+            n[1] = 7;
+            n[2] = 8;
+            n[3] = 9;
+
+            Console.WriteLine("A soma da nota dos alunos foi:");
+            Console.WriteLine(n[0+1+2+3]);
+            
+
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        }
+    }
+}
